@@ -33,7 +33,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-One of the challenges that delayed my progress was getting used to the Xcode GUI, which required a little bit of exploration as I completed the pre-work. 
+As this was my first exposure to iOS app development, one of the challenges that delayed my progress was getting used to the Xcode GUI, which required a little bit of exploration as I completed the pre-work. 
 
 ## License
 
